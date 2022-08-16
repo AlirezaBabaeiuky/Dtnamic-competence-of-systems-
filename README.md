@@ -1,4 +1,4 @@
-# Dtnamic-competence-of-systems-
+# Dynamic-competence-of-systems-
 dynamic Competence of systems - structures 
 Mainly there are 3 different types of approaches to tackle a structural dynamic problem to qualify the system from dynamic perspective. Such study is important in vibration-related cases where we want to avoid unwanted and destructive oscillations and vibrations: 
 a- Numerical approach: FEA-M (Finite element Analysis-Method) - done in Software packages simialr to ANSYS, NASTRAN, ...
